@@ -1,0 +1,53 @@
+.movie__list {
+   padding: 0 3rem 3rem 3rem;
+}
+
+.list__title {
+   font-size: 1.75rem;
+   margin: 2.5rem;
+}
+
+.list__cards {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+
+/* Pagination */
+.paginationDiv {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+}
+
+.PagInterDiv {
+   align-items: center;
+   justify-content: center;
+
+}
+
+.pagButton {
+   width: 92px;
+   margin: 21px;
+   margin-bottom: 45px;
+   color: rgb(208, 209, 222);
+   background-color: rgb(46, 44, 44);
+   border-radius: 12px;
+   size: 120px;
+   height: 35px;
+}
+
+span {
+   margin: 3px;
+   border-radius: 5px;
+   border: 1px none;
+   color: rgb(157, 232, 189);
+   background-color: rgb(46, 44, 44);
+   width: 75px;
+   height: 35px;
+   align-items: center;
+   font-size: 0.9rem;
+   padding: 5px;
+
+}
